@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gummy-byte
+- 🚗 I already move to gitlab [https://gitlab.com/syamim]
 - 👀 I’m interested in building and developing Web & Mobile Application in various programming language such as Ruby, JavaScript, PHP and Python
 - 🌱 I’m currently learning Vue.JS and Ionic
 - 📫 You can reach me via my personal website which is https://syamim.design
